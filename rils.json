@@ -1,0 +1,378 @@
+[
+  {
+    "nummer": "Ril 046",
+    "titel": "Funktionsausbildung Bauüberwachung",
+    "kategorie": "Management",
+    "kurzinfo": "Regelt die Ausbildung und Qualifikation für Bauüberwacher.",
+    "detailText": "Legt die Anforderungen und den Ablauf der Funktionsausbildung für Bauüberwacher fest.",
+    "schlagworte": ["Ausbildung", "Qualifikation", "Bauüberwacher"]
+  },
+  {
+    "nummer": "Ril 100",
+    "titel": "Abkürzungen für Örtlichkeiten",
+    "kategorie": "Allgemein",
+    "kurzinfo": "Verzeichnis der offiziellen Abkürzungen für Bahnhöfe und Betriebsstellen.",
+    "detailText": "Diese Richtlinie enthält die verbindlichen Abkürzungen für alle Betriebsstellen.",
+    "schlagworte": ["Bahnhof", "Kürzel", "Betriebsstelle"]
+  },
+  {
+    "nummer": "Ril 121",
+    "titel": "Liste der Planzeichen",
+    "kategorie": "Planung",
+    "kurzinfo": "Standardisierte Symbole und Zeichen für Pläne und Zeichnungen.",
+    "detailText": "Regelt die einheitliche Verwendung von Planzeichen im Gleis- und Anlagenbau.",
+    "schlagworte": ["Pläne", "Zeichen", "Symbole"]
+  },
+  {
+    "nummer": "Ril 138",
+    "titel": "Projektmanagement",
+    "kategorie": "Management",
+    "kurzinfo": "Vorgaben für die Abwicklung von Bauprojekten.",
+    "detailText": "Definiert die Phasen und Meilensteine im Projektmanagement für Infrastrukturprojekte.",
+    "schlagworte": ["Projekt", "Planung", "Steuerung"]
+  },
+  {
+    "nummer": "Ril 202",
+    "titel": "Einkaufsrichtlinie",
+    "kategorie": "Management",
+    "kurzinfo": "Regeln für den Einkauf von Materialien und Dienstleistungen.",
+    "detailText": "Legt die Prozesse für Beschaffung und Vergabe im Unternehmen fest.",
+    "schlagworte": ["Einkauf", "Beschaffung", "Material"]
+  },
+  {
+    "nummer": "Ril 215",
+    "titel": "Projektkosten planen",
+    "kategorie": "Management",
+    "kurzinfo": "Vorschriften zur Kalkulation und Planung von Projektkosten.",
+    "detailText": "Enthält Methoden zur Kostenschätzung und Budgetierung von Bauprojekten.",
+    "schlagworte": ["Kosten", "Budget", "Kalkulation"]
+  },
+  {
+    "nummer": "Ril 808",
+    "titel": "Kostenermittlungsbuch",
+    "kategorie": "Management",
+    "kurzinfo": "Grundlage für die Ermittlung von Baukosten.",
+    "detailText": "Enthält standardisierte Ansätze zur Ermittlung der Kosten für Baumaßnahmen.",
+    "schlagworte": ["Kosten", "Bau", "Ermittlung"]
+  },
+  {
+    "nummer": "Ril 826",
+    "titel": "Erteilung von Eignungsbescheinigungen",
+    "kategorie": "Management",
+    "kurzinfo": "Regelt die Erteilung von Bescheinigungen für Bauformen und Baustoffe.",
+    "detailText": "Vorgaben zur Zulassung von Materialien und Bauweisen im Netz.",
+    "schlagworte": ["Zulassung", "Eignung", "Material"]
+  },
+  {
+    "nummer": "Ril 123",
+    "titel": "Notfallmanagement, Brandschutz",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Regeln für den Umgang mit Notfällen und Bränden.",
+    "detailText": "Enthält Notfallpläne und Vorgaben zum vorbeugenden Brandschutz.",
+    "schlagworte": ["Notfall", "Brand", "Sicherheit"]
+  },
+  {
+    "nummer": "Ril 124",
+    "titel": "Brandschutz",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Spezifische Brandschutzvorschriften.",
+    "detailText": "Detaillierte Vorgaben für den Brandschutz an Bahnanlagen.",
+    "schlagworte": ["Brand", "Schutz", "Anlagen"]
+  },
+  {
+    "nummer": "Ril 408",
+    "titel": "Fahrdienstvorschrift (FV)",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Zentrales Regelwerk für den sicheren Bahnbetrieb.",
+    "detailText": "Regelt das Verhalten im Bahnbetrieb, Signale und Zugfahrten.",
+    "schlagworte": ["Zugfahrt", "Rangieren", "Signal", "Störung"]
+  },
+  {
+    "nummer": "Ril 420",
+    "titel": "Betriebszentralen DB Netz AG",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Organisation und Betrieb der Zentralen.",
+    "detailText": "Regelt die Abläufe in den Betriebszentralen.",
+    "schlagworte": ["Zentrale", "Betrieb", "Steuerung"]
+  },
+  {
+    "nummer": "Ril 432",
+    "titel": "Züge fahren und Rangieren",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Praktische Anweisungen für Zugfahrten und Rangierarbeiten.",
+    "detailText": "Details zu den Abläufen beim Fahren und Rangieren von Zügen.",
+    "schlagworte": ["Zug", "Rangieren", "Fahren"]
+  },
+  {
+    "nummer": "Ril 437",
+    "titel": "Signalisierter Zugleitbetrieb",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Regeln für den Zugleitbetrieb.",
+    "detailText": "Vorschriften für den signalisierten Zugleitbetrieb.",
+    "schlagworte": ["Zugleitbetrieb", "Signal"]
+  },
+  {
+    "nummer": "Ril 451",
+    "titel": "Bahnbetrieb",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Allgemeine Vorschriften für den Bahnbetrieb.",
+    "detailText": "Grundlegende Regelungen für den Ablauf im Bahnbetrieb.",
+    "schlagworte": ["Bahnbetrieb", "Ablauf"]
+  },
+  {
+    "nummer": "Ril 492",
+    "titel": "Triebfahrzeuge führen",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Vorgaben für das Führen von Triebfahrzeugen.",
+    "detailText": "Regelt die Anforderungen an Triebfahrzeugführer und die Fahrzeugführung.",
+    "schlagworte": ["Triebfahrzeug", "Führen", "Fahrzeug"]
+  },
+  {
+    "nummer": "Ril 120",
+    "titel": "Oberbaumaterial",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Vorschriften für Schienen, Schwellen und Schotter.",
+    "detailText": "Regelt die Anforderungen an das Material für den Oberbau.",
+    "schlagworte": ["Schienen", "Schwellen", "Schotter"]
+  },
+  {
+    "nummer": "Ril 806",
+    "titel": "Bauüberwachung im VR.I",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Regeln für die Bauüberwachung.",
+    "detailText": "Vorgaben für die Überwachung von Bauprojekten der Infrastruktur.",
+    "schlagworte": ["Bauüberwachung", "Projekt"]
+  },
+  {
+    "nummer": "Ril 809",
+    "titel": "Infrastrukturmaßnahmen planen",
+    "kategorie": "Planung",
+    "kurzinfo": "Vorgaben für die Planung von Infrastrukturmaßnahmen.",
+    "detailText": "Regelt die Planungsprozesse für Baumaßnahmen im Netz.",
+    "schlagworte": ["Planung", "Infrastruktur", "Bau"]
+  },
+  {
+    "nummer": "Ril 810",
+    "titel": "Technischer Netzaufbau für...",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Technische Grundsätze für den Netzaufbau.",
+    "detailText": "Definiert den technischen Aufbau und die Anforderungen an das Schienennetz.",
+    "schlagworte": ["Netz", "Aufbau", "Technik"]
+  },
+  {
+    "nummer": "Ril 820",
+    "titel": "Grundlagen des Oberbaus",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Fundament für alle Oberbauarbeiten.",
+    "detailText": "Beschreibt konstruktive Grundsätze und Anforderungen an die Gleislage.",
+    "schlagworte": ["Gleislage", "Konstruktion", "Instandhaltung"]
+  },
+  {
+    "nummer": "Ril 821",
+    "titel": "Grundlagen der Oberbauinstandhaltung",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Vorgaben zur Planung von Instandhaltungsmaßnahmen.",
+    "detailText": "Legt fest, wie der Zustand des Oberbaus zu bewerten ist.",
+    "schlagworte": ["Instandhaltung", "Zustandsbewertung", "Stopfen"]
+  },
+  {
+    "nummer": "Ril 822",
+    "titel": "Oberbau warten",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Durchführung von Wartungsarbeiten am Gleis.",
+    "detailText": "Beschreibt regelmäßige Wartungsarbeiten zur Erhaltung der Betriebssicherheit.",
+    "schlagworte": ["Wartung", "Kontrolle", "Gleis"]
+  },
+  {
+    "nummer": "Ril 823",
+    "titel": "Oberbau planen",
+    "kategorie": "Planung",
+    "kurzinfo": "Vorgaben für die Planung von Oberbaumaßnahmen.",
+    "detailText": "Regelt die planerischen Aspekte bei Umbau- und Neubaumaßnahmen im Oberbau.",
+    "schlagworte": ["Planung", "Oberbau", "Umbau"]
+  },
+  {
+    "nummer": "Ril 824",
+    "titel": "Oberbauarbeiten durchführen",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Praktische Anweisungen für die Ausführung.",
+    "detailText": "Handbuch für die Baustelle: Ablauf von Oberbauarbeiten, Maschinen und Personal.",
+    "schlagworte": ["Baustelle", "Ausführung", "Maschinen"]
+  },
+  {
+    "nummer": "Ril 825",
+    "titel": "Baumaschinen einsetzen",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Regeln für den Einsatz von Baumaschinen.",
+    "detailText": "Vorgaben für den sicheren und effizienten Einsatz von Gleisbaumaschinen.",
+    "schlagworte": ["Maschinen", "Einsatz", "Sicherheit"]
+  },
+  {
+    "nummer": "Ril 828",
+    "titel": "Weichenheizanlagen",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Vorschriften für Weichenheizungen.",
+    "detailText": "Regelt Einbau, Betrieb und Wartung von Weichenheizanlagen.",
+    "schlagworte": ["Weiche", "Heizung", "Winter"]
+  },
+  {
+    "nummer": "Ril 836",
+    "titel": "Erdbauwerke",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Vorschriften für Dämme, Einschnitte und Stützmauern.",
+    "detailText": "Regelt die Anforderungen an den Unterbau und die Gründung von Gleisanlagen.",
+    "schlagworte": ["Damm", "Einschnitt", "Unterbau"]
+  },
+  {
+    "nummer": "Ril 848",
+    "titel": "DSTW-Anlagen Planen",
+    "kategorie": "Planung",
+    "kurzinfo": "Planung von digitalen Stellwerken.",
+    "detailText": "Vorgaben zur Planung und Einführung von DSTW-Anlagen.",
+    "schlagworte": ["DSTW", "Stellwerk", "Planung"]
+  },
+  {
+    "nummer": "Ril 853",
+    "titel": "Eisenbahntunnel",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Vorschriften für Tunnelanlagen.",
+    "detailText": "Regelt Bau, Betrieb und Instandhaltung von Eisenbahntunneln.",
+    "schlagworte": ["Tunnel", "Bau", "Instandhaltung"]
+  },
+  {
+    "nummer": "Ril 885",
+    "titel": "Bahn Geodaten",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Umgang mit Geodaten im Bahnnetz.",
+    "detailText": "Vorgaben zur Erfassung und Nutzung von Geodaten.",
+    "schlagworte": ["Geodaten", "Vermessung"]
+  },
+  {
+    "nummer": "Ril 886",
+    "titel": "Bestand in Plänen dokumentieren",
+    "kategorie": "Planung",
+    "kurzinfo": "Dokumentation des Bestands in Plänen.",
+    "detailText": "Regelt die Führung und Aktualisierung von Bestandsplänen.",
+    "schlagworte": ["Bestand", "Pläne", "Dokumentation"]
+  },
+  {
+    "nummer": "Ril 891",
+    "titel": "Isolierung Weichen und Gleise",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Vorschriften für die elektrische Isolierung.",
+    "detailText": "Regelt Einbau und Prüfung von Isolierstößen und isolierten Schienenverbindungen.",
+    "schlagworte": ["Isolierung", "Gleisfreimeldung", "Weiche"]
+  },
+  {
+    "nummer": "Ril 301",
+    "titel": "Signalbuch (SB)",
+    "kategorie": "Signaltechnik",
+    "kurzinfo": "Enthält alle Signale und deren Bedeutung.",
+    "detailText": "Beschreibt detailliert alle Signale, ihre Anordnung und Bedeutung.",
+    "schlagworte": ["Hauptsignal", "Vorsignal", "Lichtsignal"]
+  },
+  {
+    "nummer": "Ril 482",
+    "titel": "Signalanlagen bedienen",
+    "kategorie": "Signaltechnik",
+    "kurzinfo": "Anweisungen zur Bedienung von Signalanlagen.",
+    "detailText": "Regelt die Bedienung von Stellwerken und Signalanlagen.",
+    "schlagworte": ["Bedienung", "Stellwerk", "Signal"]
+  },
+  {
+    "nummer": "Ril 483",
+    "titel": "Zugbeeinflussungsanlagen...",
+    "kategorie": "Signaltechnik",
+    "kurzinfo": "Vorschriften für Zugbeeinflussungssysteme.",
+    "detailText": "Regelt den Betrieb und die Wartung von Zugsicherungssystemen (z.B. PZB, LZB).",
+    "schlagworte": ["Zugsicherung", "PZB", "LZB"]
+  },
+  {
+    "nummer": "Ril 818",
+    "titel": "Signalanlagen planen und...",
+    "kategorie": "Planung",
+    "kurzinfo": "Planung von Signalanlagen.",
+    "detailText": "Vorgaben für die Planung von Leit- und Sicherungstechnik.",
+    "schlagworte": ["Planung", "Signal", "LST"]
+  },
+  {
+    "nummer": "Ril 819",
+    "titel": "LST Anlagen planen",
+    "kategorie": "Planung",
+    "kurzinfo": "Planung von Leit- und Sicherungstechnik.",
+    "detailText": "Regelt die Planungsprozesse für LST-Anlagen.",
+    "schlagworte": ["LST", "Planung", "Sicherung"]
+  },
+  {
+    "nummer": "Ril 892",
+    "titel": "LST Anlagen montieren und...",
+    "kategorie": "Signaltechnik",
+    "kurzinfo": "Montage und Instandhaltung von LST-Anlagen.",
+    "detailText": "Anweisungen zur Montage und Wartung von Leit- und Sicherungstechnik.",
+    "schlagworte": ["Montage", "LST", "Wartung"]
+  },
+  {
+    "nummer": "Ril 462",
+    "titel": "Betrieb des Oberleitungsnetzes",
+    "kategorie": "Elektrotechnik",
+    "kurzinfo": "Regeln für den Betrieb der Oberleitung.",
+    "detailText": "Vorgaben für den sicheren Betrieb von Oberleitungsanlagen.",
+    "schlagworte": ["Oberleitung", "Betrieb"]
+  },
+  {
+    "nummer": "Ril 954",
+    "titel": "Elektrische Energieanlagen",
+    "kategorie": "Elektrotechnik",
+    "kurzinfo": "Vorschriften für Bahnstrom und Oberleitungen.",
+    "detailText": "Sicherheitsvorschriften für den Umgang mit Hochspannung.",
+    "schlagworte": ["Bahnstrom", "Hochspannung", "Sicherheit"]
+  },
+  {
+    "nummer": "Ril 997",
+    "titel": "Oberleitungsanlagen",
+    "kategorie": "Elektrotechnik",
+    "kurzinfo": "Vorschriften für Oberleitungsanlagen.",
+    "detailText": "Regelt Bau und Instandhaltung von Oberleitungsanlagen.",
+    "schlagworte": ["Oberleitung", "Bau", "Instandhaltung"]
+  },
+  {
+    "nummer": "Ril 132",
+    "titel": "Arbeiten im Gefahrenbereich",
+    "kategorie": "Sicherheit",
+    "kurzinfo": "Regeln für die Sicherheit am Arbeitsplatz.",
+    "detailText": "Legt Anforderungen an Arbeitsschutz, PSA und Sicherung von Arbeitsstellen fest.",
+    "schlagworte": ["PSA", "Gleisbereich", "Sicherung"]
+  },
+  {
+    "nummer": "Ril 406",
+    "titel": "Bahnbetrieb Fahren und Bauen",
+    "kategorie": "Betrieb",
+    "kurzinfo": "Regeln für Bauarbeiten im laufenden Betrieb.",
+    "detailText": "Vorgaben zur Koordination von Bauarbeiten und Zugverkehr.",
+    "schlagworte": ["Bauen", "Betrieb", "Koordination"]
+  },
+  {
+    "nummer": "Ril 513",
+    "titel": "Sicherungsmaßnahmen für...",
+    "kategorie": "Sicherheit",
+    "kurzinfo": "Sicherungsmaßnahmen an Bahnanlagen.",
+    "detailText": "Regelt spezifische Sicherungsmaßnahmen an Infrastrukturanlagen.",
+    "schlagworte": ["Sicherung", "Anlagen"]
+  },
+  {
+    "nummer": "Ril 815",
+    "titel": "Bahnübergangsanlagen planen",
+    "kategorie": "Planung",
+    "kurzinfo": "Planung und Instandhaltung von Bahnübergängen.",
+    "detailText": "Vorschriften für die Sicherung und Planung von Bahnübergängen.",
+    "schlagworte": ["Bahnübergang", "Planung", "Sicherung"]
+  },
+  {
+    "nummer": "Ril 931",
+    "titel": "Nebenfahrzeuge; Bauart und...",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Vorschriften für Nebenfahrzeuge.",
+    "detailText": "Regelt Bauart und Betrieb von Nebenfahrzeugen (z.B. Zweiwegefahrzeuge).",
+    "schlagworte": ["Nebenfahrzeug", "Bauart", "Betrieb"]
+  }
+]
