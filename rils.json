@@ -24,6 +24,15 @@
     "schlagworte": ["Pläne", "Zeichen", "Symbole"]
   },
   {
+    "nummer": "Ril 132",
+    "titel": "Arbeiten im Gefahrenbereich",
+    "kategorie": "Sicherheit",
+    "kurzinfo": "Regeln für die Sicherheit am Arbeitsplatz.",
+    "detailText": "Legt Anforderungen an Arbeitsschutz, PSA und Sicherung von Arbeitsstellen fest.",
+    "schlagworte": ["PSA", "Gleisbereich", "Sicherung"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/13200_V1_0_DE.pdf"
+  },
+  {
     "nummer": "Ril 138",
     "titel": "Projektmanagement",
     "kategorie": "Management",
@@ -48,36 +57,21 @@
     "schlagworte": ["Kosten", "Budget", "Kalkulation"]
   },
   {
-    "nummer": "Ril 808",
-    "titel": "Kostenermittlungsbuch",
-    "kategorie": "Management",
-    "kurzinfo": "Grundlage für die Ermittlung von Baukosten.",
-    "detailText": "Enthält standardisierte Ansätze zur Ermittlung der Kosten für Baumaßnahmen.",
-    "schlagworte": ["Kosten", "Bau", "Ermittlung"]
+    "nummer": "Ril 301",
+    "titel": "Signalbuch (SB)",
+    "kategorie": "Signaltechnik",
+    "kurzinfo": "Enthält alle Signale und deren Bedeutung.",
+    "detailText": "Beschreibt detailliert alle Signale, ihre Anordnung und Bedeutung.",
+    "schlagworte": ["Hauptsignal", "Vorsignal", "Lichtsignal"]
   },
   {
-    "nummer": "Ril 826",
-    "titel": "Erteilung von Eignungsbescheinigungen",
-    "kategorie": "Management",
-    "kurzinfo": "Regelt die Erteilung von Bescheinigungen für Bauformen und Baustoffe.",
-    "detailText": "Vorgaben zur Zulassung von Materialien und Bauweisen im Netz.",
-    "schlagworte": ["Zulassung", "Eignung", "Material"]
-  },
-  {
-    "nummer": "Ril 123",
-    "titel": "Notfallmanagement, Brandschutz",
+    "nummer": "Ril 406",
+    "titel": "Bahnbetrieb Fahren und Bauen",
     "kategorie": "Betrieb",
-    "kurzinfo": "Regeln für den Umgang mit Notfällen und Bränden.",
-    "detailText": "Enthält Notfallpläne und Vorgaben zum vorbeugenden Brandschutz.",
-    "schlagworte": ["Notfall", "Brand", "Sicherheit"]
-  },
-  {
-    "nummer": "Ril 124",
-    "titel": "Brandschutz",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Spezifische Brandschutzvorschriften.",
-    "detailText": "Detaillierte Vorgaben für den Brandschutz an Bahnanlagen.",
-    "schlagworte": ["Brand", "Schutz", "Anlagen"]
+    "kurzinfo": "Regeln für Bauarbeiten im laufenden Betrieb.",
+    "detailText": "Vorgaben zur Koordination von Bauarbeiten und Zugverkehr.",
+    "schlagworte": ["Bauen", "Betrieb", "Koordination"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/10_40600%20Version%208.0_Aktualisierung_10.pdf"
   },
   {
     "nummer": "Ril 408",
@@ -88,52 +82,31 @@
     "schlagworte": ["Zugfahrt", "Rangieren", "Signal", "Störung"]
   },
   {
-    "nummer": "Ril 420",
-    "titel": "Betriebszentralen DB Netz AG",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Organisation und Betrieb der Zentralen.",
-    "detailText": "Regelt die Abläufe in den Betriebszentralen.",
-    "schlagworte": ["Zentrale", "Betrieb", "Steuerung"]
+    "nummer": "Ril 800.0130",
+    "titel": "Mindestabstände in Gleisanlagen (Lichtraum)",
+    "kategorie": "Planung",
+    "kurzinfo": "Regelt das Lichtraumprofil und Mindestabstände.",
+    "detailText": "Enthält die Vorgaben für den Lichtraum (GC-Profil) und Abstände zu Bauwerken.",
+    "schlagworte": ["Lichtraum", "Abstand", "Profil"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/8000130_V3_1_DE_Gesamt.pdf"
   },
   {
-    "nummer": "Ril 432",
-    "titel": "Züge fahren und Rangieren",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Praktische Anweisungen für Zugfahrten und Rangierarbeiten.",
-    "detailText": "Details zu den Abläufen beim Fahren und Rangieren von Zügen.",
-    "schlagworte": ["Zug", "Rangieren", "Fahren"]
+    "nummer": "Ril 804",
+    "titel": "Eisenbahnbrücken planen",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Vorschriften für die Planung von Eisenbahnbrücken.",
+    "detailText": "Regelt die planerischen Anforderungen an Brückenbauwerke.",
+    "schlagworte": ["Brücke", "Planung", "Bauwerk"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/804_Eisenbahnbr%C3%BCcken_planen.pdf"
   },
   {
-    "nummer": "Ril 437",
-    "titel": "Signalisierter Zugleitbetrieb",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Regeln für den Zugleitbetrieb.",
-    "detailText": "Vorschriften für den signalisierten Zugleitbetrieb.",
-    "schlagworte": ["Zugleitbetrieb", "Signal"]
-  },
-  {
-    "nummer": "Ril 451",
-    "titel": "Bahnbetrieb",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Allgemeine Vorschriften für den Bahnbetrieb.",
-    "detailText": "Grundlegende Regelungen für den Ablauf im Bahnbetrieb.",
-    "schlagworte": ["Bahnbetrieb", "Ablauf"]
-  },
-  {
-    "nummer": "Ril 492",
-    "titel": "Triebfahrzeuge führen",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Vorgaben für das Führen von Triebfahrzeugen.",
-    "detailText": "Regelt die Anforderungen an Triebfahrzeugführer und die Fahrzeugführung.",
-    "schlagworte": ["Triebfahrzeug", "Führen", "Fahrzeug"]
-  },
-  {
-    "nummer": "Ril 120",
-    "titel": "Oberbaumaterial",
-    "kategorie": "Oberbau",
-    "kurzinfo": "Vorschriften für Schienen, Schwellen und Schotter.",
-    "detailText": "Regelt die Anforderungen an das Material für den Oberbau.",
-    "schlagworte": ["Schienen", "Schwellen", "Schotter"]
+    "nummer": "Ril 805",
+    "titel": "Tragsicherheit bestehender Eisenbahnbrücken",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Bewertung der Tragsicherheit von Bestandsbrücken.",
+    "detailText": "Regelt die Prüfung und Bewertung der Tragfähigkeit bestehender Brücken.",
+    "schlagworte": ["Brücke", "Tragsicherheit", "Bestand"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/Ril_805.00_V1_1_DE_Tragsicherheit_bestehender_Eisenbahnbr%C3%BCcken.pdf"
   },
   {
     "nummer": "Ril 806",
@@ -142,6 +115,14 @@
     "kurzinfo": "Regeln für die Bauüberwachung.",
     "detailText": "Vorgaben für die Überwachung von Bauprojekten der Infrastruktur.",
     "schlagworte": ["Bauüberwachung", "Projekt"]
+  },
+  {
+    "nummer": "Ril 808",
+    "titel": "Kostenermittlungsbuch",
+    "kategorie": "Management",
+    "kurzinfo": "Grundlage für die Ermittlung von Baukosten.",
+    "detailText": "Enthält standardisierte Ansätze zur Ermittlung der Kosten für Baumaßnahmen.",
+    "schlagworte": ["Kosten", "Bau", "Ermittlung"]
   },
   {
     "nummer": "Ril 809",
@@ -165,7 +146,26 @@
     "kategorie": "Oberbau",
     "kurzinfo": "Fundament für alle Oberbauarbeiten.",
     "detailText": "Beschreibt konstruktive Grundsätze und Anforderungen an die Gleislage.",
-    "schlagworte": ["Gleislage", "Konstruktion", "Instandhaltung"]
+    "schlagworte": ["Gleislage", "Konstruktion", "Instandhaltung"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/82001_Aktualisierung_Version_4.0_Grundlagen_des_Oberbaues.pdf"
+  },
+  {
+    "nummer": "Ril 820.0101",
+    "titel": "Übergreifende Regelungen im Oberbau",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Allgemeine Regelungen für den Oberbau.",
+    "detailText": "Enthält übergreifende Bestimmungen für alle Oberbauarbeiten.",
+    "schlagworte": ["Regelungen", "Oberbau", "Allgemein"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/820.0101_%C3%9Cbergreifende_Regelungen_im_Oberbau.pdf"
+  },
+  {
+    "nummer": "Ril 820.0120",
+    "titel": "Oberbautechnische Freigabe",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Regelt die Freigabe von Oberbaumaßnahmen.",
+    "detailText": "Vorgaben für die Erteilung der oberbautechnischen Freigabe.",
+    "schlagworte": ["Freigabe", "Oberbau", "Abnahme"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/820.0120_Oberbautechnische_Freigabe.pdf"
   },
   {
     "nummer": "Ril 821",
@@ -173,7 +173,8 @@
     "kategorie": "Oberbau",
     "kurzinfo": "Vorgaben zur Planung von Instandhaltungsmaßnahmen.",
     "detailText": "Legt fest, wie der Zustand des Oberbaus zu bewerten ist.",
-    "schlagworte": ["Instandhaltung", "Zustandsbewertung", "Stopfen"]
+    "schlagworte": ["Instandhaltung", "Zustandsbewertung", "Stopfen"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/82101_V3_1_DE.pdf"
   },
   {
     "nummer": "Ril 822",
@@ -189,7 +190,17 @@
     "kategorie": "Planung",
     "kurzinfo": "Vorgaben für die Planung von Oberbaumaßnahmen.",
     "detailText": "Regelt die planerischen Aspekte bei Umbau- und Neubaumaßnahmen im Oberbau.",
-    "schlagworte": ["Planung", "Oberbau", "Umbau"]
+    "schlagworte": ["Planung", "Oberbau", "Umbau"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/823_Oberbauarbeiten_planen.pdf"
+  },
+  {
+    "nummer": "Ril 823.0700",
+    "titel": "Weichen und Kreuzungen (Planung)",
+    "kategorie": "Planung",
+    "kurzinfo": "Planung von Weichen und Kreuzungen.",
+    "detailText": "Spezifische Planungsvorgaben für Weichen und Kreuzungen.",
+    "schlagworte": ["Weiche", "Kreuzung", "Planung"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/823.0700_Weichen_und_Kreuzungen.pdf"
   },
   {
     "nummer": "Ril 824",
@@ -197,7 +208,26 @@
     "kategorie": "Oberbau",
     "kurzinfo": "Praktische Anweisungen für die Ausführung.",
     "detailText": "Handbuch für die Baustelle: Ablauf von Oberbauarbeiten, Maschinen und Personal.",
-    "schlagworte": ["Baustelle", "Ausführung", "Maschinen"]
+    "schlagworte": ["Baustelle", "Ausführung", "Maschinen"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/824_Oberbauarbeiten_durchf%C3%BChren.PDF"
+  },
+  {
+    "nummer": "Ril 824.8110",
+    "titel": "Gleisneu- / Gleisumbau abnehmen",
+    "kategorie": "Oberbau",
+    "kurzinfo": "Regelt die Abnahme von Gleisen.",
+    "detailText": "Enthält die Prüfparameter und Toleranzen für die Abnahme von Gleisen.",
+    "schlagworte": ["Abnahme", "Gleis", "Toleranz"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/824.8110_Gleisneu-_Gleisumbau_und_die_maschinelle_gleisdurcharbeitung_abnehmen.pdf"
+  },
+  {
+    "nummer": "Ril 824.8120",
+    "titel": "Weichenneu- oder Weichenumbau abnehmen",
+    "kategorie": "Weichen",
+    "kurzinfo": "Regelt die Abnahme von Weichen und Kreuzungen.",
+    "detailText": "Enthält die spezifischen Prüfparameter und Checklisten für die Abnahme von Weichen.",
+    "schlagworte": ["Abnahme", "Weiche", "Kreuzung"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/824.8120_Weichenneu-_oder_Weichenumbau.pdf"
   },
   {
     "nummer": "Ril 825",
@@ -208,12 +238,12 @@
     "schlagworte": ["Maschinen", "Einsatz", "Sicherheit"]
   },
   {
-    "nummer": "Ril 828",
-    "titel": "Weichenheizanlagen",
-    "kategorie": "Oberbau",
-    "kurzinfo": "Vorschriften für Weichenheizungen.",
-    "detailText": "Regelt Einbau, Betrieb und Wartung von Weichenheizanlagen.",
-    "schlagworte": ["Weiche", "Heizung", "Winter"]
+    "nummer": "Ril 826",
+    "titel": "Erteilung von Eignungsbescheinigungen",
+    "kategorie": "Management",
+    "kurzinfo": "Regelt die Erteilung von Bescheinigungen für Bauformen und Baustoffe.",
+    "detailText": "Vorgaben zur Zulassung von Materialien und Bauweisen im Netz.",
+    "schlagworte": ["Zulassung", "Eignung", "Material"]
   },
   {
     "nummer": "Ril 836",
@@ -221,7 +251,17 @@
     "kategorie": "Infrastruktur",
     "kurzinfo": "Vorschriften für Dämme, Einschnitte und Stützmauern.",
     "detailText": "Regelt die Anforderungen an den Unterbau und die Gründung von Gleisanlagen.",
-    "schlagworte": ["Damm", "Einschnitt", "Unterbau"]
+    "schlagworte": ["Damm", "Einschnitt", "Unterbau"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/83601_V1_1_DE.pdf"
+  },
+  {
+    "nummer": "Ril 836.7001",
+    "titel": "Bewertung von geotechnischen Bauwerken",
+    "kategorie": "Infrastruktur",
+    "kurzinfo": "Bewertung der Standsicherheit von Erdbauwerken.",
+    "detailText": "Regelt die Prüfung und Bewertung bestehender geotechnischer Bauwerke.",
+    "schlagworte": ["Bewertung", "Geotechnik", "Bestand"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/836.7001_Bewertung_von_geotechnischen_Bauwerken.pdf"
   },
   {
     "nummer": "Ril 848",
@@ -237,7 +277,8 @@
     "kategorie": "Infrastruktur",
     "kurzinfo": "Vorschriften für Tunnelanlagen.",
     "detailText": "Regelt Bau, Betrieb und Instandhaltung von Eisenbahntunneln.",
-    "schlagworte": ["Tunnel", "Bau", "Instandhaltung"]
+    "schlagworte": ["Tunnel", "Bau", "Instandhaltung"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/853.1001_Entwurfsgrundlagen_Allgemeine_Regelungen.pdf"
   },
   {
     "nummer": "Ril 885",
@@ -261,111 +302,8 @@
     "kategorie": "Oberbau",
     "kurzinfo": "Vorschriften für die elektrische Isolierung.",
     "detailText": "Regelt Einbau und Prüfung von Isolierstößen und isolierten Schienenverbindungen.",
-    "schlagworte": ["Isolierung", "Gleisfreimeldung", "Weiche"]
-  },
-  {
-    "nummer": "Ril 301",
-    "titel": "Signalbuch (SB)",
-    "kategorie": "Signaltechnik",
-    "kurzinfo": "Enthält alle Signale und deren Bedeutung.",
-    "detailText": "Beschreibt detailliert alle Signale, ihre Anordnung und Bedeutung.",
-    "schlagworte": ["Hauptsignal", "Vorsignal", "Lichtsignal"]
-  },
-  {
-    "nummer": "Ril 482",
-    "titel": "Signalanlagen bedienen",
-    "kategorie": "Signaltechnik",
-    "kurzinfo": "Anweisungen zur Bedienung von Signalanlagen.",
-    "detailText": "Regelt die Bedienung von Stellwerken und Signalanlagen.",
-    "schlagworte": ["Bedienung", "Stellwerk", "Signal"]
-  },
-  {
-    "nummer": "Ril 483",
-    "titel": "Zugbeeinflussungsanlagen...",
-    "kategorie": "Signaltechnik",
-    "kurzinfo": "Vorschriften für Zugbeeinflussungssysteme.",
-    "detailText": "Regelt den Betrieb und die Wartung von Zugsicherungssystemen (z.B. PZB, LZB).",
-    "schlagworte": ["Zugsicherung", "PZB", "LZB"]
-  },
-  {
-    "nummer": "Ril 818",
-    "titel": "Signalanlagen planen und...",
-    "kategorie": "Planung",
-    "kurzinfo": "Planung von Signalanlagen.",
-    "detailText": "Vorgaben für die Planung von Leit- und Sicherungstechnik.",
-    "schlagworte": ["Planung", "Signal", "LST"]
-  },
-  {
-    "nummer": "Ril 819",
-    "titel": "LST Anlagen planen",
-    "kategorie": "Planung",
-    "kurzinfo": "Planung von Leit- und Sicherungstechnik.",
-    "detailText": "Regelt die Planungsprozesse für LST-Anlagen.",
-    "schlagworte": ["LST", "Planung", "Sicherung"]
-  },
-  {
-    "nummer": "Ril 892",
-    "titel": "LST Anlagen montieren und...",
-    "kategorie": "Signaltechnik",
-    "kurzinfo": "Montage und Instandhaltung von LST-Anlagen.",
-    "detailText": "Anweisungen zur Montage und Wartung von Leit- und Sicherungstechnik.",
-    "schlagworte": ["Montage", "LST", "Wartung"]
-  },
-  {
-    "nummer": "Ril 462",
-    "titel": "Betrieb des Oberleitungsnetzes",
-    "kategorie": "Elektrotechnik",
-    "kurzinfo": "Regeln für den Betrieb der Oberleitung.",
-    "detailText": "Vorgaben für den sicheren Betrieb von Oberleitungsanlagen.",
-    "schlagworte": ["Oberleitung", "Betrieb"]
-  },
-  {
-    "nummer": "Ril 954",
-    "titel": "Elektrische Energieanlagen",
-    "kategorie": "Elektrotechnik",
-    "kurzinfo": "Vorschriften für Bahnstrom und Oberleitungen.",
-    "detailText": "Sicherheitsvorschriften für den Umgang mit Hochspannung.",
-    "schlagworte": ["Bahnstrom", "Hochspannung", "Sicherheit"]
-  },
-  {
-    "nummer": "Ril 997",
-    "titel": "Oberleitungsanlagen",
-    "kategorie": "Elektrotechnik",
-    "kurzinfo": "Vorschriften für Oberleitungsanlagen.",
-    "detailText": "Regelt Bau und Instandhaltung von Oberleitungsanlagen.",
-    "schlagworte": ["Oberleitung", "Bau", "Instandhaltung"]
-  },
-  {
-    "nummer": "Ril 132",
-    "titel": "Arbeiten im Gefahrenbereich",
-    "kategorie": "Sicherheit",
-    "kurzinfo": "Regeln für die Sicherheit am Arbeitsplatz.",
-    "detailText": "Legt Anforderungen an Arbeitsschutz, PSA und Sicherung von Arbeitsstellen fest.",
-    "schlagworte": ["PSA", "Gleisbereich", "Sicherung"]
-  },
-  {
-    "nummer": "Ril 406",
-    "titel": "Bahnbetrieb Fahren und Bauen",
-    "kategorie": "Betrieb",
-    "kurzinfo": "Regeln für Bauarbeiten im laufenden Betrieb.",
-    "detailText": "Vorgaben zur Koordination von Bauarbeiten und Zugverkehr.",
-    "schlagworte": ["Bauen", "Betrieb", "Koordination"]
-  },
-  {
-    "nummer": "Ril 513",
-    "titel": "Sicherungsmaßnahmen für...",
-    "kategorie": "Sicherheit",
-    "kurzinfo": "Sicherungsmaßnahmen an Bahnanlagen.",
-    "detailText": "Regelt spezifische Sicherungsmaßnahmen an Infrastrukturanlagen.",
-    "schlagworte": ["Sicherung", "Anlagen"]
-  },
-  {
-    "nummer": "Ril 815",
-    "titel": "Bahnübergangsanlagen planen",
-    "kategorie": "Planung",
-    "kurzinfo": "Planung und Instandhaltung von Bahnübergängen.",
-    "detailText": "Vorschriften für die Sicherung und Planung von Bahnübergängen.",
-    "schlagworte": ["Bahnübergang", "Planung", "Sicherung"]
+    "schlagworte": ["Isolierung", "Gleisfreimeldung", "Weiche"],
+    "pdfUrl": "https://raw.githubusercontent.com/balexug/bueb-platform/main/pdfs/Ril_891-Isolierung_von_Weichen_und_Gleisen.pdf"
   },
   {
     "nummer": "Ril 931",
